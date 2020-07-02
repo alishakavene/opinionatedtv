@@ -1,0 +1,17 @@
+body{
+  background-color: black;
+}
+
+.logo{
+  color:yellow;
+}
+.btn-default{
+  margin-top: 20px;
+
+}
+.navbar-brand{
+  font-size: 30px;
+}
+.name{
+  margin-bottom: 40px;
+}
